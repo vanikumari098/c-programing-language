@@ -1,4 +1,4 @@
-#include <stdio.h>
+u#include <stdio.h>
 
 int main() {
     int num;
